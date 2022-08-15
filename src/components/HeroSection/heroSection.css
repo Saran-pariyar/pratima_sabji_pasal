@@ -1,0 +1,56 @@
+.main-hero {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.marquee-text {
+    background: #44067e;
+    color: white;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+
+.main-section {
+    background: url(../../assets/img/veg.jpg), rgba(0, 0, 0, 0.6);
+    background-size: cover;
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+
+.main-title {
+    color: white;
+    font-size: 4rem;
+    text-align: center;
+}
+
+.second-title {
+    color: rgb(11, 255, 235);
+    font-size: 2rem;
+    text-align: center;
+    width: 40vw;
+}
+
+@media only screen and (max-width:900px) {
+    .main-section {
+        height: 60vh;
+    }
+
+    .main-title {
+        font-size: 2.5rem;
+    }
+
+    .second-title {
+        padding: 2.4rem;
+        width: 80vw;
+    }
+}
