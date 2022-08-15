@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pratima_sabji_pasal/static/css/main.88222868.css",
+    "main.js": "/pratima_sabji_pasal/static/js/main.b7e0c8de.js",
+    "static/media/veg.jpg": "/pratima_sabji_pasal/static/media/veg.9e65e7a18d760e5aa549.jpg",
+    "static/media/logo.png": "/pratima_sabji_pasal/static/media/logo.9657a7aecf1e653b16ff.png",
+    "index.html": "/pratima_sabji_pasal/index.html",
+    "main.88222868.css.map": "/pratima_sabji_pasal/static/css/main.88222868.css.map",
+    "main.b7e0c8de.js.map": "/pratima_sabji_pasal/static/js/main.b7e0c8de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88222868.css",
+    "static/js/main.b7e0c8de.js"
+  ]
+}
